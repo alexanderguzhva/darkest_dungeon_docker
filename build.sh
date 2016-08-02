@@ -1,0 +1,1 @@
+docker build --tag darkestdungeon:2.4.0.4 --file=Dockerfile .
